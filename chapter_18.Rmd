@@ -2,3 +2,13 @@
 title: "chapter 18"
 output: html_document
 ---
+
+Single english sentence. 
+
+```{r}
+a <- 2
+b <- 4
+c <- a + b
+c
+```
+
